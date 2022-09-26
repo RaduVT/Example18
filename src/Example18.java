@@ -26,6 +26,7 @@ public class Example18 {
         } else {
             net = gross;
         }
+        System.out.println("Salary: " +gross);
     }
 
 }
